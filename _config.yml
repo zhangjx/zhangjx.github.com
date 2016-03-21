@@ -70,7 +70,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:zhangjx/zhangjx.github.com.git
-  branch: gh-pages
+  branch: master
 
 # Feed
 feed:
