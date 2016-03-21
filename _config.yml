@@ -68,9 +68,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  # type: git
-  # repo: git@github.com:zhangjx/zhangjx.github.com.git
-  # branch: master
+  type: git
+  repo: git@github.com:zhangjx/zhangjx.github.com.git
+  branch: gh-pages
 
 # Feed
 feed:
