@@ -16,12 +16,10 @@ Desktop.ini
 node_modules
 *.gz
 
-# coffee
-*.js
-*.js.map
 
 # vim
-*.sw*
+*.swp
+*.swo
 
 # idea
 .idea
