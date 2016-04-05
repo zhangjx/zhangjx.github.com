@@ -6,3 +6,8 @@ tags:
 ---
 
 ### 首先你得有一台mac 电脑
+
+![test-image](/images/test-image.jpeg)
+![test-image3](/images/test-image3.jpeg)
+![test-image2](/images/test-image2.jpeg)
+
