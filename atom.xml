@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhangjx.com/"/>
-  <updated>2016-04-01T10:34:36.000Z</updated>
+  <updated>2016-04-05T07:15:31.000Z</updated>
   <id>http://zhangjx.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zhangjx.com/2016/04/01/hello-world/"/>
-    <id>http://zhangjx.com/2016/04/01/hello-world/</id>
-    <published>2016-04-01T10:34:36.000Z</published>
-    <updated>2016-04-01T10:34:36.000Z</updated>
+    <link href="http://zhangjx.com/2016/04/05/hello-world/"/>
+    <id>http://zhangjx.com/2016/04/05/hello-world/</id>
+    <published>2016-04-05T07:15:31.000Z</published>
+    <updated>2016-04-05T07:15:31.000Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -47,13 +47,14 @@
     <link href="http://zhangjx.com/2016/03/22/Mac-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     <id>http://zhangjx.com/2016/03/22/Mac-开发环境搭建/</id>
     <published>2016-03-22T06:51:32.000Z</published>
-    <updated>2016-04-01T10:34:36.000Z</updated>
+    <updated>2016-04-05T10:28:50.000Z</updated>
     
-    <content type="html">&lt;h3 id=&quot;首先你得有一台mac-电脑&quot;&gt;&lt;a href=&quot;#首先你得有一台mac-电脑&quot; class=&quot;headerlink&quot; title=&quot;首先你得有一台mac 电脑&quot;&gt;&lt;/a&gt;首先你得有一台mac 电脑&lt;/h3&gt;</content>
+    <content type="html">&lt;h3 id=&quot;首先你得有一台mac-电脑&quot;&gt;&lt;a href=&quot;#首先你得有一台mac-电脑&quot; class=&quot;headerlink&quot; title=&quot;首先你得有一台mac 电脑&quot;&gt;&lt;/a&gt;首先你得有一台mac 电脑&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/images/test-image.jpeg&quot; alt=&quot;test-image&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/test-image3.jpeg&quot; alt=&quot;test-image3&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/test-image2.jpeg&quot; alt=&quot;test-image2&quot;&gt;&lt;/p&gt;
+</content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;首先你得有一台mac-电脑&quot;&gt;&lt;a href=&quot;#首先你得有一台mac-电脑&quot; class=&quot;headerlink&quot; title=&quot;首先你得有一台mac 电脑&quot;&gt;&lt;/a&gt;首先你得有一台mac 电脑&lt;/h3&gt;
+      &lt;h3 id=&quot;首先你得有一台mac-电脑&quot;&gt;&lt;a href=&quot;#首先你得有一台mac-电脑&quot; class=&quot;headerlink&quot; title=&quot;首先你得有一台mac 电脑&quot;&gt;&lt;/a&gt;首先你得有一台mac 电脑&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/images/test-ima
     
     </summary>
     
@@ -67,7 +68,7 @@
     <link href="http://zhangjx.com/2016/03/18/hi-hexo/"/>
     <id>http://zhangjx.com/2016/03/18/hi-hexo/</id>
     <published>2016-03-18T09:40:44.000Z</published>
-    <updated>2016-04-01T10:34:36.000Z</updated>
+    <updated>2016-04-05T07:15:31.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Hi-hexo-hello-world&quot;&gt;&lt;a href=&quot;#Hi-hexo-hello-world&quot; class=&quot;headerlink&quot; title=&quot;Hi hexo, hello world!&quot;&gt;&lt;/a&gt;Hi hexo, hello world!&lt;/h2&gt;</content>
     
